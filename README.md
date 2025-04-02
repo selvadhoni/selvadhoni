@@ -6,8 +6,9 @@
 Passionate about building scalable applications, optimizing DevOps workflows, and integrating AI-driven automation. Experienced in Node.js, React, Python, Docker, CI/CD, and Cloud Infrastructure. Always exploring new technologies to drive innovation and efficiency. 🚀
 
 
-📫 **Let's Connect**
-Feel free to reach out for collaboration, mentorship, or just to chat about all things tech. You can find me here on GitHub and connect with me on [LinkedIn](https://www.linkedin.com/in/selvakannanr/){:target="_blank"}.
+📫 **Let's Connect**  
+Feel free to reach out for collaboration, mentorship, or just to chat about all things tech. You can find me here on GitHub and connect with me on  
+<a href="https://www.linkedin.com/in/selvakannanr/" target="_blank">LinkedIn</a>.
 
 
 🛠️ **Languages & Tools**
