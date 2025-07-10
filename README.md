@@ -11,6 +11,8 @@ Feel free to reach out for collaboration, mentorship, or just to chat about all 
 
 <a href="https://www.linkedin.com/in/selvakannanr/" target="_blank">LinkedIn</a>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/selvakannanr/)
+
 
 🛠️ **Languages & Tools**
 
