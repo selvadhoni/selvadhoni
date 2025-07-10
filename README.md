@@ -7,12 +7,7 @@ Passionate about building scalable applications, optimizing DevOps workflows, an
 
 
 📫 **Let's Connect**  
-Feel free to reach out for collaboration, mentorship, or just to chat about all things tech. You can find me here on GitHub and connect with me on ![Linkedin](https://www.linkedin.com/in/selvakannanr/)
-
-<a href="https://www.linkedin.com/in/selvakannanr/" target="_blank">LinkedIn</a>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/selvakannanr/)
-
+Feel free to reach out for collaboration, mentorship, or just to chat about all things tech. You can find me here on GitHub and connect with me on <a href="https://www.linkedin.com/in/selvakannanr/" target="_blank">LinkedIn</a>.
 
 🛠️ **Languages & Tools**
 
